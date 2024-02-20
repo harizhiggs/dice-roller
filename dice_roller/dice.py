@@ -1,7 +1,7 @@
 # dice.py
 class Dice():
     def roll(self):
-        return 1
+        return 0
 
 # [...]
 if __name__ == "__main__":
